@@ -1,6 +1,8 @@
 # Qcow2
 
-## Convert a dd.img Disk Image file to Qcow2 Snapshot capable Disk image
+## Convert a Raw .img Disk Image file to Qcow2 Snapshot capable Disk image
+such as created by dd.
+
 sch: https://www.google.com/search?q=qemu+img+convert+raw+to+qcow2+compress
 
 Guide:
