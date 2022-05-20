@@ -1,2 +1,7 @@
 # Qcow2
-https://www.google.com/search?q=qemu+img+convert+raw+to+qcow2+compress
+
+## Convert a dd.img Disk Image file to Qcow2 Snapshot capable Disk image
+sch: https://www.google.com/search?q=qemu+img+convert+raw+to+qcow2+compress
+
+Guide:
+https://docs.openstack.org/image-guide/convert-images.html
